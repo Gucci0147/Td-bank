@@ -1,0 +1,6 @@
+Installation of pkgs
+Clean ups- title change, text bootstrap, clear out pre-built css
+
+set Up the react router dom
+install react-router-dom
+setting pages (premier,home,contact support,login,create account,personal banking,Business)
